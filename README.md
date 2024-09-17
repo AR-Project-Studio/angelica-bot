@@ -1,2 +1,2 @@
 # angelica-bot
-whatsapp-web.js named Angelica
+whatsapp-web.js named angelica

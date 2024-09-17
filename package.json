@@ -1,0 +1,16 @@
+{
+    "name": "angelica-bot",
+    "version": "1.0.0",
+    "description": "Whatsapp API named Angelica by AR Project Studio",
+    "main": "main.js",
+    "scripts": {
+      "start": "node ."
+    },
+    "author": "AR Project Studio",
+    "license": "ISC",
+    "dependencies": {
+      "qrcode-terminal": "^0.12.0",
+      "whatsapp-web.js": "^1.23.0"
+    }
+  }
+  
